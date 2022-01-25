@@ -22,8 +22,8 @@
   "keywords": [],
   "dependencies": {
     "express": "^4.17.2",
+    "hbs": "^4.2.0",
     "mime": "^3.0.0"
   },
   "type": "module"
-  
 }
